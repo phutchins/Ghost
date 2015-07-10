@@ -28,6 +28,7 @@ Ghost is also compatible with **Node v0.12** and **io.js v1.2**, but please note
 1. Unzip in the location you want to install
 1. Fire up a terminal
 1. `npm install --production`
+1. `grunt init`
 1. Start Ghost!
     - Local environment: `npm start`
     - On a server: `npm start --production`
@@ -38,7 +39,7 @@ More [install docs](http://support.ghost.org/installation/) here in case you got
 <a name="getting-started"></a>
 # Developer Install (from git)
 
-Install Node.js. 
+Install Node.js.
 
 ```bash
 # Node v0.10.x - full support
